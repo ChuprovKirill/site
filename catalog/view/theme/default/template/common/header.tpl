@@ -84,7 +84,7 @@
           <a href="https://www.instagram.com/sok_store/"  target="_blank"><img id="instagramm" src="catalog/view/theme/default/image/insta.png"/></a>
         </div>
         <br/>
-        <div id="phone_number">+ 7 (978) 051 26 78 (What's up / Viber)<br/><br/>+ 7 (978) 926 51 44</div>
+        <div id="phone_number">+ 7 (978) 926 51 44 </div>
         <div id="logo">
           <?php if ($logo) { ?>
             <?php if ($home == $og_url) { ?>
