@@ -126,7 +126,12 @@ div.required .control-label:before {
 }
 /* logo */
 #logo {
-	margin: 0 0 10px 0;
+	margin: 10px 90px 10px 40px;
+}
+/*social*/
+#soc-icons {
+	text-align:center;
+	padding-top:55px;
 }
 /* search */
 #search {
