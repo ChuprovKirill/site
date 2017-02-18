@@ -82,9 +82,8 @@
         <div id="soc-icons">
           <a href="https://vk.com/the_sok_store" target="_blank"><img id="vk" src="catalog/view/theme/default/image/vk.png"/></a>
           <a href="https://www.instagram.com/sok_store/"  target="_blank"><img id="instagramm" src="catalog/view/theme/default/image/insta.png"/></a>
+          <span id="phone_number">+ 7 (978) 926 51 44 </span>
         </div>
-
-        <div id="phone_number">+ 7 (978) 926 51 44 </div>
         <div id="logo">
           <?php if ($logo) { ?>
             <?php if ($home == $og_url) { ?>

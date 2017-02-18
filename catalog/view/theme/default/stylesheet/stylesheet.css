@@ -130,14 +130,15 @@ div.required .control-label:before {
 }
 /*social*/
 #soc-icons {
-	text-align:center;
-	padding-top:55px;
+	text-align:left;
+	padding-top:10px;
 }
 #phone_number{
     margin-left:20px;
     font-size:15px;
     font-weight:bold;
     position:relative;
+    float: right;
 }
 /* search */
 #search {
